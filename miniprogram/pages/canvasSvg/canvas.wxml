@@ -1,0 +1,1 @@
+<canvas id="canvas" type="2d" style="position: absolute;top: 0;left: 0;border: 1px solid; width: 300px; height: 300px;" bindtouchmove="touch" bindtouchstart="touch" bindtouchend="touch" bindtouchcancel="touch" bindtap="touch" />

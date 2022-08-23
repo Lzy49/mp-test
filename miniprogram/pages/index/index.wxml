@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<p>需要打开调试功能，否则无法使用web-view ( 个人小程序无法绑定业务域名 )</p>
+<view class="container" bindtap="to">
+  <button data-url="/pages/canvasSvg/webview?type=canvas-canvas" >webview 展示 canvas</button>
+  <button data-url="/pages/canvasSvg/webview?type=canvas-svg">webview展示 svg</button>
+  <button data-url="/pages/canvasSvg/canvas">canvas 展示</button>
+  <button data-url="/pages/canvasSvg/svg">svg 转 base64 展示</button>
+  <button data-url="/pages/canvasSvg/svgToCanvas">svg 转 canvas 展示</button>
+</view>

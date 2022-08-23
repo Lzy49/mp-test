@@ -1,0 +1,8 @@
+<view>
+  image
+  <view>
+  <!-- <image id="image" bind style="width: 300px; height: 300px; background-color: #eeeeee;" src="{{src}}" bindtouchmove="touch" bindtouchstart="touch" bindtouchend="touch" bindtouchcancel="touch" bindtap="touch"></image> -->
+  </view>
+  view
+  <view id="image" bind style="width:300px;height:300px;background:url('{{ src }}') no-repeat center" bindtouchmove="touch" bindtouchstart="touch" bindtouchend="touch" bindtouchcancel="touch" bindtap="touch"></view>
+</view>

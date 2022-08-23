@@ -1,0 +1,3 @@
+<web-view src="{{url}}"></web-view>
+<!-- <web-view wx:if="type === 'canvas-canvas" src="https://lzy49.github.io/svg-canvas-test/canvas.html"></web-view>
+<web-view wx:if="type === 'canvas-svg" src="https://lzy49.github.io/svg-canvas-test/svg.html"></web-view> -->

@@ -1,0 +1,4 @@
+<view class="container">
+  <view>点击灰色块测试 click</view>
+  <cax-element id="svg-c"></cax-element>
+</view>
